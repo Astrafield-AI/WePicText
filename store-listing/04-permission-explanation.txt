@@ -1,0 +1,7 @@
+WePicText 使用的权限仅用于完成核心功能：
+
+clipboardWrite：
+将整理后的文字复制到剪贴板，方便用户手动粘贴到公众号贴图文字区。
+
+https://mp.weixin.qq.com/*：
+只在微信公众号编辑页面显示 WePicText 面板，避免插件在无关网页运行。
