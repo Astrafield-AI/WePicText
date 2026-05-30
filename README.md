@@ -10,5 +10,8 @@
 - `store-listing/02-detailed-description.txt`：详细介绍
 - `store-listing/03-privacy-statement.txt`：隐私说明
 - `store-listing/04-permission-explanation.txt`：权限说明
+- `screenshots/screenshot-01-1280x800.png`：商店截图 1
+- `screenshots/screenshot-02-1280x800.png`：商店截图 2
+- `screenshots/screenshot-03-1280x800.png`：商店截图 3
 
-商店截图待补。
+`screenshots/original-*` 是原始截图备份；上传 Chrome Web Store 时优先使用 `1280x800` 版本。
